@@ -1,6 +1,9 @@
 # LED Piano Visualizer
 
-
+<p align="center">
+  <img src="images/on-air.jpg" width="500"></a>
+  <img src="images/piano.jpg" width="500"></a>
+</p>
 
 
 ## Demo videos
