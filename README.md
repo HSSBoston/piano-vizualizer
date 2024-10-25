@@ -1,7 +1,7 @@
 # Piano Sound Visualizer
 
 <p align="center">
-  <img src="images/system.jpg" width="500"></a><br>
+  <img src="images/system.jpg" width="700"></a><br>
   <img src="images/on-air.jpg" width="350"></a>
 </p>
 
